@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=안녕하세요,%20프론트엔드%20개발자%20이동규입니다.&fontSize=48&fontColor=5885fc)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=안녕하세요,%20프론트엔드%20개발자%20이동규입니다.&fontSize=42&fontColor=5885fc)
 # 📊 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astro7145)
 ![GuNyangE's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro7145&show_icons=true)
